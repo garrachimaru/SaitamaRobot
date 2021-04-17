@@ -77,10 +77,9 @@ Hi {}, my name is {}!
 I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
-"""
-
+"
 HELP_STRINGS = """
-*Main* commands available [:](https://telegra.ph/file/418fe04d27f1fb02788e3.png)
+*Main* commands available [:](https://telegra.ph/file/fb2083c45c722f53452d6.jpg)
 
  • /help: PM's you this message.
  • /help <module name>: PM's you info about that module.
