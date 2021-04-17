@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                             text=" Check out this",
-                            url="https://t.me/levi107"),
+                            url="https://t.me/levi107_bot"),
                          InlineKeyboardButton(
                             text=" ⚡️ Updates Channel ",
                              url="https://t.me/Mizuhara_updates")        
