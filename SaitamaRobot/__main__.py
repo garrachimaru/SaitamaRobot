@@ -94,7 +94,7 @@ HELP_STRINGS = """
 SAITAMA_IMG = "https://telegra.ph/file/b6d50c7f4e713ed6fe807.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
+No need to donate. Just share this bot with your friends that would mean alot to me
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at @OnePunchDev."""
 
