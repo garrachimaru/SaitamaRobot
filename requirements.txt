@@ -32,3 +32,4 @@ pyrate-limiter
 cachetools
 ujson
 pretty_errors
+pytz==2019.3
