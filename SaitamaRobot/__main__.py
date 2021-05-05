@@ -100,7 +100,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/6a547f1f7e472f02febb2.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/02536903f8b611d028adb.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
@@ -236,12 +236,6 @@ def start(update: Update, context: CallbackContext):
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
                                 url="https://t.me/claymonbot",
-                            ),
-                        ],
-                        [
-                            InlineKeyboardButton(
-                                text="⚜ OWNER",
-                                url="https://t.me/A_m_a_n_107",
                            ),
                         ],
                         [
