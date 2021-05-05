@@ -240,7 +240,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="屢 Check this",
+                                text="屢 Checkout",
                                 url="https://t.me/Levi107_bot",
                             )
                         ],
