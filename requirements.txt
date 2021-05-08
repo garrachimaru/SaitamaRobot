@@ -32,8 +32,4 @@ pyrate-limiter
 cachetools
 ujson
 pretty_errors
-pytz
-hachoir
-pybase64
-pySmartDL
-SaitamaRobot.event
+
