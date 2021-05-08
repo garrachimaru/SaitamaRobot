@@ -35,3 +35,4 @@ pretty_errors
 pytz
 hachoir
 pybase64
+pySmartDL
