@@ -34,3 +34,4 @@ ujson
 pretty_errors
 pytz
 tswift
+MashaRoBot
