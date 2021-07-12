@@ -33,3 +33,4 @@ cachetools
 ujson
 pretty_errors
 pytz
+tswift
